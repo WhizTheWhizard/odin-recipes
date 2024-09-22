@@ -1,1 +1,1 @@
-In this section of The Odin Project I will create a website that will link to different recipes
+In this section of The Odin Project I will create a website that will link to different recipes while practicing the basics of html with lists and links.
