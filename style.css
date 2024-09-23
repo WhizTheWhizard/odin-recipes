@@ -14,10 +14,11 @@ h3{
 }
 
 ul.home{
-    font-size: 25px;
+    font-size: 20px;
 }
 
 img{
-    height: 300px;
+    height: auto;
+    width: 310px;
 }
 
