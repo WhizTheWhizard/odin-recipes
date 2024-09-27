@@ -25,19 +25,24 @@ h3{
 }
 h6{
     margin-bottom: 15px;
+    text-align: center;
 }
 ul.home{
     font-size: 20px;
+    display: flex;
+}
+ul.home li{
+    padding-right: 24px;
 }
 img{
+    display: block;
     height: auto;
     width: 310px;
-    margin: auto;
+    margin: 0  auto;
 }
 li{
     padding: 1px;
     margin: 2px;
-
 }
 a{
     background-color: transparent;
