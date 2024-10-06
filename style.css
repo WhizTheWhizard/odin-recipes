@@ -95,9 +95,19 @@ nav{
     border-bottom: 1px dotted;
     margin-bottom: 12px;
 }
-header{
-    margin-bottom: 12px;
+a{
+    text-decoration: none;
 }
 li.logo {
     margin-right: auto;
+  }
+.email{
+    justify-content: center;
+    margin-top: 12px;
+    display: flex;
+
+  }
+.email input[type="text"]{
+    flex: auto;
+    max-width: 400px;
   }
